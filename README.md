@@ -1,1 +1,14 @@
-# RAPS
+# RAPS🧠
+A Rede de Atenção Psicossocial (RAPS) é constituída por um conjunto integrado e articulado de diferentes pontos de atenção para atender pessoas em sofrimento psíquico e com necessidades decorrentes uso prejudicial de álcool e outras drogas, no âmbito do Sistema Único de Saúde (SUS), com estabelecimento de ações intersetoriais para garantira integralidade do cuidado.
+
+# Censo🧮
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dui nisi, commodo sit amet gravida et, porta et orci. Aliquam vestibulum leo libero, at viverra sem ultrices in. Vestibulum dolor lacus, fermentum quis rutrum non, ullamcorper a nibh. Praesent condimentum pharetra elit. Nunc placerat tincidunt elit id semper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse ullamcorper quis ex in facilisis. Nunc tristique fermentum posuere. Morbi non sem sollicitudin eros gravida fermentum. Donec tincidunt pharetra leo vel efficitur. Morbi vel vestibulum ante.
+
+# Análise e Exploração dos Dados💻
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dui nisi, commodo sit amet gravida et, porta et orci. Aliquam vestibulum leo libero, at viverra sem ultrices in. Vestibulum dolor lacus, fermentum quis rutrum non, ullamcorper a nibh. Praesent condimentum pharetra elit. Nunc placerat tincidunt elit id semper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse ullamcorper quis ex in facilisis. Nunc tristique fermentum posuere. Morbi non sem sollicitudin eros gravida fermentum. Donec tincidunt pharetra leo vel efficitur. Morbi vel vestibulum ante.
+
+# Painel Analítico📊
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dui nisi, commodo sit amet gravida et, porta et orci. Aliquam vestibulum leo libero, at viverra sem ultrices in. Vestibulum dolor lacus, fermentum quis rutrum non, ullamcorper a nibh. Praesent condimentum pharetra elit. Nunc placerat tincidunt elit id semper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse ullamcorper quis ex in facilisis. Nunc tristique fermentum posuere. Morbi non sem sollicitudin eros gravida fermentum. Donec tincidunt pharetra leo vel efficitur. Morbi vel vestibulum ante.
+
+# Conclusão da Pesquisa🔎
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dui nisi, commodo sit amet gravida et, porta et orci. Aliquam vestibulum leo libero, at viverra sem ultrices in. Vestibulum dolor lacus, fermentum quis rutrum non, ullamcorper a nibh. Praesent condimentum pharetra elit. Nunc placerat tincidunt elit id semper. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse ullamcorper quis ex in facilisis. Nunc tristique fermentum posuere. Morbi non sem sollicitudin eros gravida fermentum. Donec tincidunt pharetra leo vel efficitur. Morbi vel vestibulum ante.
